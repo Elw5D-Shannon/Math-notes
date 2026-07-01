@@ -54,7 +54,7 @@
     // 勒让德符号
     "\\leg" : "\\dkh{\\dfrac{#1}{#2}}",
     // 帽子
-    "\\wt" : "\\widetilde", "\\wh" : "\\widehat",  "\\wa" : "\\",
+    "\\wt" : "\\widetilde", "\\wh" : "\\widehat",  "\\wa" : " \\text{\\}",
 
     //简写
     "\\a" : "\\alpha",
@@ -84,7 +84,7 @@
     // 等于符号
     "\\deq" : "\\overset{d}{=}", "\\neq" : "\\not =", "\\notin": "\\not\\in",
     //箭头价符号简写
-    "\\LR" : "\\red\\Leftrightarrow", "\\xto" : "\\xrightarrow{#1}", "\\xTo" : "\\xRightarrow{#1}" ,  "\\tto" : "\\rightrightarrows", "\\nto" : "\\nrightarrow", 
+    "\\LR" : "\\Leftrightarrow", "\\xto" : "\\xrightarrow{#1}", "\\xTo" : "\\xRightarrow{#1}" ,  "\\tto" : "\\rightrightarrows", "\\nto" : "\\nrightarrow", 
     "\\Rt"  : "\\Rightarrow", "\\lto" : "\\leftarrow", "\\xlto" : "\\xleftarrow{#1}",
     // 花体字母的简写
     "\\ms" : "\\mathscr{#1}" , "\\mc" : "\\mathcal{#1}", "\\mb" : "\\mathbb{#1}",  "\\mf" : "\\mathfrak{#1}", "\\mt" : "\\mathtt{#1}" ,

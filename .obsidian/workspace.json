@@ -11,10 +11,14 @@
             "id": "8dc2c1953e3be60b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "大学物理/0.基础.md",
+                "bFile": "大学物理/0.基础.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 0.基础  (Working Tree)"
             }
           }
         ]
@@ -188,5 +192,21 @@
     }
   },
   "active": "8dc2c1953e3be60b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "常微分方程/5.e解对初值的依赖性.md",
+    "学习路线.png",
+    "使用例3.png",
+    "使用例1.png",
+    "使用例2.png",
+    "组合数学/奥赛题目/计数问题.md",
+    "运筹学/图片/3d闭合三角形.png",
+    "傅里叶分析/2.级数收敛性.md",
+    "傅里叶分析/1.卷积与良核.md",
+    "大学物理/6.e习题.md",
+    "大学物理/5.热学.md",
+    "大学物理/1.经典力学.md",
+    "大学物理/0.基础.md",
+    "常微分方程/3.存在和唯一性定理.md",
+    "常微分方程/2.初等积分法.md"
+  ]
 }
